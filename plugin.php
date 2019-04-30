@@ -498,7 +498,7 @@ if ( ! class_exists( __NAMESPACE__ . '\Core_Blocker' ) ) {
 
             // include long predefined list of all available languages
             // It includes a function: core_blocker_get_languages()
-            include( __DIR__ . '/lib/language-list.php' );
+            include_once( __DIR__ . '/lib/language-list.php' );
             $core_languges = core_blocker_get_languages();
             $installed = get_available_languages();
 
