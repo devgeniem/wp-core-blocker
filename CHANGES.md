@@ -1,5 +1,6 @@
-#### Version 0.2.4 - 2019/08/28
+#### Version 0.3.3 - 2019/09/01
 * Fix the `__return_false` callback for the `themes_api` hook.
+* Fix `Error Cannot redeclare core_blocker_get_languages()` that occurs when used together with other plugins that request the languages multiple times.
 
 #### Version 0.2.3 - 2016/08/26
 * Disable core from downloading the full language list in options-general.php page.
