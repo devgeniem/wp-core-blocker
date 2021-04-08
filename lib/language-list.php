@@ -57,6 +57,7 @@ function core_blocker_get_languages() {
         'ja'            =>             array( 'english_name' => 'Japanese', 'native_name' => '日本語' ),
         'ka_GE'         =>          array( 'english_name' => 'Georgian', 'native_name' => 'ქართული' ),
         'ko_KR'         =>          array( 'english_name' => 'Korean', 'native_name' => '한국어' ),
+        'lv'            =>          array( 'english_name' => 'Latvian', 'native_name' => 'Latviešu valoda' ),
         'lt_LT'         =>          array( 'english_name' => 'Lithuanian', 'native_name' => 'Lietuvių kalba' ),
         'mk_MK'         =>          array( 'english_name' => 'Macedonian', 'native_name' => 'Македонски јазик' ),
         'mr'            =>             array( 'english_name' => 'Marathi', 'native_name' => 'मराठी' ),
