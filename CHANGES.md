@@ -1,4 +1,4 @@
-#### Version 0.3.4 - 2021/04/09
+#### Version 2.0.0 - 2021/04/09
 * Removed the `language-list.php` and `available_translations()`.
 
 #### Version 0.3.3 - 2019/09/01
