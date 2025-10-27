@@ -1,3 +1,6 @@
+#### Version 2.0.1 - 2025/10/23
+* Added Composer installer v2 dependency
+
 #### Version 2.0.0 - 2021/04/09
 * Removed the `language-list.php` and `available_translations()`.
 
